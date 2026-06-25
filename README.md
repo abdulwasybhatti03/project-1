@@ -1,2 +1,3 @@
 # project-1
-this is my first semester pf project for finals
+My first semester project in pf reading C++.<br>Author : Abdul Wasy
+
