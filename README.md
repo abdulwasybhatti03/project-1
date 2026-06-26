@@ -1,5 +1,4 @@
-# project-1
-
-<h>My first semester project in pf reading C++.<\h><br>Author : Abdul Wasy<br>Descipline : Student
+<h1>My first semester project in PF</h1>
+<br>Author : Abdul Wasy<br>Descipline : Student
 
 
